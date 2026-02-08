@@ -75,7 +75,7 @@ export function Hero() {
                 transition={{ duration: 0.4 }}
               >
                 <img
-                  src="/images/photo-1.jpg"
+                  src="/images/photo-2.jpg"
                   alt="Gokul H M"
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                 />
