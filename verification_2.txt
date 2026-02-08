@@ -1,0 +1,4 @@
+
+> Create Professional Portfolio Website@0.1.0 type-check
+> tsc --noEmit
+
